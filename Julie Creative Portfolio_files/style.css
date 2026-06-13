@@ -730,7 +730,7 @@ width: 95%;
 
 .contact-card i {
   font-size: 3.5rem;
-  color: var(--bs-primary);
+  color: var(bs-black:);
   margin-bottom: 20px;
 }
 
