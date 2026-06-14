@@ -734,3 +734,7 @@ width: 95%;
   color: var(--bs-gray-dark);
   margin-bottom: 0;
 }
+/* Download my CV Portfolio*/
+.btn-custom {
+  border-radius: 0.5rem;
+}
